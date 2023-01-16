@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ScreenHandlerV2/1.0.0": {
+        "dependencies": {
+          "ConsoleScreenHandler-EK-MV": "1.0.1",
+          "Newtonsoft.Json.Schema": "3.0.14"
+        },
+        "runtime": {
+          "ScreenHandlerV2.dll": {}
+        }
+      },
+      "ConsoleScreenHandler-EK-MV/1.0.1": {
+        "dependencies": {
+          "Newtonsoft.Json.Schema": "3.0.14"
+        },
+        "runtime": {
+          "lib/net6.0/ConsoleScreenHandler_EK(MV).dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "Newtonsoft.Json.Schema/3.0.14": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.Schema.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.14.25421"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ScreenHandlerV2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleScreenHandler-EK-MV/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-M5vLO1DeQDZ2abKg4yEvoGM/JESY7Ckfx+JT79UEDfh70uOnk7eDgWP0l1A7s6s0+2S086thJvMogqR0ayzpyg==",
+      "path": "consolescreenhandler-ek-mv/1.0.1",
+      "hashPath": "consolescreenhandler-ek-mv.1.0.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "Newtonsoft.Json.Schema/3.0.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Qnu41yEFuMEJMuD1kJgslc4cF981K+hA7SmgXQ/N6pk6Zknvxt4g5Hx7KRykycP3oKyoz3aTFRV/TX+Vp6v7uQ==",
+      "path": "newtonsoft.json.schema/3.0.14",
+      "hashPath": "newtonsoft.json.schema.3.0.14.nupkg.sha512"
+    }
+  }
+}

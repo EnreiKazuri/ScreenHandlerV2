@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "D/eJLzX//RIoWrL4ij+ig+w9ZIv0WZJool2Wb4+D50lZjRaqbMuY71JWLsUiHbxwhKU0Sx9KNiIDDjW4re1XhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\namit\\Desktop\\ScreenHandlerV2\\ScreenHandlerV2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\namit\\.nuget\\packages\\consolescreenhandler-ek-mv\\1.0.1\\consolescreenhandler-ek-mv.1.0.1.nupkg.sha512",
+    "C:\\Users\\namit\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\namit\\.nuget\\packages\\newtonsoft.json.schema\\3.0.14\\newtonsoft.json.schema.3.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
