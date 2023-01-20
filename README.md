@@ -4,6 +4,10 @@ Second version of the POC of a ScreenHandler api, which creates console menus ba
 
 Now the handler can manage CRUD operations on a new listing created for the apps main screen.
 
+[Link to the package on GitHub](https://github.com/EnreiKazuri/ConsoleScreenHandler_EK_for_V2/)
+
+[Link to the package on NuGet](https://www.nuget.org/packages/ConsoleScreenHandler-EK-MV)
+
 MainScreen structure
 ```json
 {
